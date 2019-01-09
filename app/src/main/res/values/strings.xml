@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="err_uritype">Tipo de actividad desconocida:</string>
+    <string name="err_prov_insert">URI desconocida :</string>
+    <string name="err_insert">Falla al insertar fila en :</string>
+    <string name="err_prov_uridesconocida">URI desconocida:</string>
+</resources>
